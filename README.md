@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexey Tropin</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=15&pause=1000&color=F7BC2F&width=435&lines=I+am+interested+in+mobile+development+(Flutter)+and+actively+studying+Rust" alt="Typing SVG" /></a>
+
+<div style="display:flex;justify-content: center;">
+  <a style href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=15&pause=1000&color=F7BC2F&width=435&lines=I+am+interested+in+mobile+development+(Flutter)+and+actively+studying+Rust" alt="Typing SVG" />
+  </a>
+</div>
 
 
 
