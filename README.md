@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexey Tropin</h1>
-<h3 align="center">I am interested in mobile development (Flutter) and actively studying Rust</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=15&pause=1000&color=F7BC2F&width=435&lines=I+am+interested+in+mobile+development+(Flutter)+and+actively+studying+Rust" alt="Typing SVG" /></a>
+
+
 
 <p align="left">
   <img src="https://www.codewars.com/users/shigomany/badges/micro" alt="codewars"/>
