@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexey Tropin</h1>
 
 <p align="center" dir="auto">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=15&pause=1000&color=F7BC2F&repeat=false&width=435&lines=I+am+interested+in+mobile+development+(Flutter)+and+actively+studying+Rust" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=15&pause=1000&color=F7BC2F&center=true&multiline=true&repeat=false&width=435&lines=I+am+interested+in+mobile+development+(Flutter);and+actively+studying+Rust" alt="Typing SVG" /></a>
 </p>
 
 
