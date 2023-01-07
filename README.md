@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=shigomany&label=Profile%20views&color=0e75b6&style=flat" alt="shigomany" /> 
 </p>
 
-<p align="center" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shigomany" alt="shigomany" /></a> </p>
+<p align="center" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shigomany&theme=radical&no-frame=true&no-bg=true" alt="shigomany" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" dir="auto">
